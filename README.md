@@ -14,6 +14,24 @@ this project use EC200U module for vend pad
 |   POS PORT        |
 
 
+# Hardware Design
+
+## PCB Layers
+
+<div align="center">
+  <img src="Documentation/Images/PCB-1.png" width="600">
+  <br><br>
+  <img src="Documentation/Images/PCB-2.png" width="600">
+</div>
+
+## List Components
+
+<a href="Documentation/vend-002.pdf">
+Download List Components PDF
+</a>
+
+
+
 ## check List
 - [ ] change voltage line per modules
 - [ ] resize of light, motor, sensor and I2C socket
